@@ -54,7 +54,7 @@ Download the Branding Guide here (pdf file)
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:joinsalam1@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:joinsalam1@gmail.com">joinsalam1@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
