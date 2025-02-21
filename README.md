@@ -54,15 +54,15 @@ Download the Branding Guide here (pdf file)
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:joinsalam1@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+966) 53 953 8726</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Jeddah, Suadi Arabia</td>
     </tr>
     <tr>
       <td>⬇️</td>
